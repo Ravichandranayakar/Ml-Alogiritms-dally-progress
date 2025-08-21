@@ -6,7 +6,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 ---
 
 ##  Algorithms Checklist
-## ** Supervised Learning:**
+## **Supervised Learning:**
 
 -  **Linear Regression** 
 -  **Logistic Regression** 
@@ -36,6 +36,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 4. Document key learnings in this repo
 - [https://github.com/Ravichandranayakar/Ml-Alogiritms-dally-progress/tree/main]
 ---
+
 
 
 

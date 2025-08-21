@@ -14,7 +14,8 @@ The goal is to understand each algorithm deeply by building **real-world project
 -  **Decision Trees**   
 -  **Random Forest** 
 -  **Support Vector Machines (SVM)** 
--  **Naive Bayes** 
+-  **Naive Bayes**
+-  **XGBoosting**
 
 ## **Unsupervised Learning:**
 -   **KMeans Clustering**
@@ -36,6 +37,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 4. Document key learnings in this repo
 - [https://github.com/Ravichandranayakar/Ml-Alogiritms-dally-progress/tree/main]
 ---
+
 
 
 

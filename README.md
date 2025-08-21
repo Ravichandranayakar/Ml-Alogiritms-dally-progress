@@ -5,22 +5,22 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ---
 
-## 📌 Algorithms Checklist
+##  Algorithms Checklist
 
 - [x] **Linear Regression** 
   -  Completed project: *Trip Duration Prediction*  
   -  Upcoming project: *Startup Profit Prediction*  
 
-- [ ] **Logistic Regression** 
-- [ ] **K-Nearest Neighbors (KNN)** 
-- [ ] **Decision Trees**   
-- [ ] **Random Forest** 
-- [ ] **Support Vector Machines (SVM)** 
-- [ ] **Naive Bayes** 
+-  **Logistic Regression** 
+-  **K-Nearest Neighbors (KNN)** 
+-  **Decision Trees**   
+-  **Random Forest** 
+-  **Support Vector Machines (SVM)** 
+-  **Naive Bayes** 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python**  
 - **Pandas, NumPy** (Data preprocessing)  
 - **Matplotlib, Seaborn** (Visualization)  
@@ -28,13 +28,14 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ---
 
-## 🎯 Learning Approach
+##  Learning Approach
 1. Learn one algorithm at a time  
 2. Build at least **one project** for each algorithm  
 3. Compare results with other algorithms  
 4. Document key learnings in this repo  
 
 ---
+
 
 
 

@@ -7,10 +7,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ##  Algorithms Checklist
 
-- [x] **Linear Regression** 
-  -  Completed project: *Trip Duration Prediction*  
-  -  Upcoming project: *Startup Profit Prediction*  
-
+-  **Linear Regression** 
 -  **Logistic Regression** 
 -  **K-Nearest Neighbors (KNN)** 
 -  **Decision Trees**   
@@ -35,6 +32,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 4. Document key learnings in this repo  
 
 ---
+
 
 
 

@@ -9,10 +9,10 @@ The goal is to understand each algorithm deeply by building **real-world project
 ## **Supervised Learning:**
 
 -  **Linear Regression**
--  ** Projects :-**
--  Indian Real Estate Price Prediction.ipynb
--  station Demand Predictor.ipynb
--  Trip Duration predictor.ipynb
+-  **Projects:-**
+  1.Indian Real Estate Price Prediction.ipynb
+  2.station Demand Predictor.ipynb
+  3.Trip Duration predictor.ipynb
 -  **Logistic Regression** 
 -  **K-Nearest Neighbors (KNN)** 
 -  **Decision Trees**   
@@ -41,6 +41,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 4. Document key learnings in this repo
 - [https://github.com/Ravichandranayakar/Ml-Alogiritms-dally-progress/tree/main]
 ---
+
 
 
 

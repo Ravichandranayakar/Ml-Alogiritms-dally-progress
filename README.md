@@ -8,11 +8,11 @@ The goal is to understand each algorithm deeply by building **real-world project
 ##  Algorithms Checklist
 ## **Supervised Learning:**
 
--  **Linear Regression**
--  **Projects:-**
-  1. Indian Real Estate Price Prediction.ipynb
-  2. Station Demand Predictor.ipynb
-  3. Trip Duration predictor.ipynb
+-  **Linear Regression** with two projects:
+  -  **Indian Real Estate Price Prediction.ipynb**
+  -  **Station Demand Predictor.ipynb**
+  -  **Trip Duration predictor.ipynb**
+  
 -  **Logistic Regression** 
 -  **K-Nearest Neighbors (KNN)** 
 -  **Decision Trees**   
@@ -43,10 +43,8 @@ The goal is to understand each algorithm deeply by building **real-world project
 ---
 
 
-- Finished **Linear Regression** with two projects:
-  - 1. **Indian Real Estate Price Prediction.ipynb**
-  - 2. **Station Demand Predictor.ipynb**
-  - 3. **Trip Duration predictor.ipynb**
+
+
 
 
 

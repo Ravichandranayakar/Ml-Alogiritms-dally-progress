@@ -43,6 +43,9 @@ The goal is to understand each algorithm deeply by building **real-world project
 ---
 
 
+- Finished **Linear Regression** with two projects:
+  - **Trip Duration Prediction**
+  - **Startup Profit Prediction (In Progress)**  
 
 
 

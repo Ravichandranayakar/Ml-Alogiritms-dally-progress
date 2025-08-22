@@ -44,8 +44,10 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 
 - Finished **Linear Regression** with two projects:
-  - **Trip Duration Prediction**
-  - **Startup Profit Prediction (In Progress)**  
+  - 1. **Indian Real Estate Price Prediction.ipynb**
+  - 2. **Station Demand Predictor.ipynb**
+  - 3. **Trip Duration predictor.ipynb**
+
 
 
 

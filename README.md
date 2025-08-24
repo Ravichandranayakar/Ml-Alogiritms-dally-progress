@@ -8,12 +8,14 @@ The goal is to understand each algorithm deeply by building **real-world project
 ##  Algorithms Checklist
 ## **Supervised Learning:**
 
-- finished **Linear Regression** with three projects:
-  -  **Indian Real Estate Price Prediction.ipynb**
-  -  **Station Demand Predictor.ipynb**
-  -  **Trip Duration predictor.ipynb**
+- finished **Linear Regression** with projects:
+  -  **Indian Real Estate Price Prediction**
+  -  **Station Demand Predictor**
+  -  **Trip Duration predictor**
   
--  **Logistic Regression** 
+- finished **Logistic Regression** with projects:
+  -  **Heart Disease Prediction**
+
 -  **K-Nearest Neighbors (KNN)** 
 -  **Decision Trees**   
 -  **Random Forest** 
@@ -39,7 +41,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 2. Build at least **one project** for each algorithm  
 3. Compare results with other algorithms  
 4. Document key learnings in this repo
-- [https://github.com/Ravichandranayakar/Ml-Alogiritms-dally-progress/tree/main]
+- https://github.com/Ravichandranayakar/Ml-Alogiritms-dally-progress/tree/main
 ---
 
 

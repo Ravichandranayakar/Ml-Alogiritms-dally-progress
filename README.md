@@ -8,14 +8,17 @@ The goal is to understand each algorithm deeply by building **real-world project
 ## Algorithms Checklist
 
 ### Supervised Learning
-- **Linear Regression** using all top regression algoritms with Projects:
+- **Linear Regression** - using all top regression algoritms with Projects:
   - **Indian Real Estate Price Prediction**
   - **Station Demand Predictor**
   - **Trip Duration Predictor**
+    
 - **Logistic Regression** – Project:
   - **Heart Disease Prediction**
+    
 - **Random Forest** – Project:
   - **Cardiovascular Disease Predictor**
+    
 - **K-Nearest Neighbors (KNN)**
 - **Decision Trees**
 - **Support Vector Machines (SVM)**

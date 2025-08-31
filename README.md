@@ -1,35 +1,34 @@
 # Machine Learning Algorithms - Daily Progress
 
 This repository tracks my **daily progress in learning Machine Learning algorithms** with hands-on projects and notes.  
-The goal is to understand each algorithm deeply by building **real-world projects** and documenting the learning journey.  
+The goal is to understand each algorithm deeply by building **real-world projects** and documenting the learning journey.
 
 ---
 
-##  Algorithms Checklist
-## **Supervised Learning:**
+## Algorithms Checklist
 
-- finished **Linear Regression** with projects:
-  -  **Indian Real Estate Price Prediction**
-  -  **Station Demand Predictor**
-  -  **Trip Duration predictor**
-  
-- finished **Logistic Regression** with projects:
-  -  **Heart Disease Prediction**
-  -  **cardiovascular Disease Predictor[Random forest classifier]**
-     
--  **K-Nearest Neighbors (KNN)** 
--  **Decision Trees**   
--  **Random Forest** 
--  **Support Vector Machines (SVM)** 
--  **Naive Bayes**
--  **XGBoosting**
+### Supervised Learning
+- **Linear Regression** using all top regression algoritms with Projects:
+  - **Indian Real Estate Price Prediction**
+  - **Station Demand Predictor**
+  - **Trip Duration Predictor**
+- **Logistic Regression** – Project:
+  - **Heart Disease Prediction**
+- **Random Forest** – Project:
+  - **Cardiovascular Disease Predictor**
+- **K-Nearest Neighbors (KNN)**
+- **Decision Trees**
+- **Support Vector Machines (SVM)**
+- **Naive Bayes**
+- **XGBoost**
 
-## **Unsupervised Learning:**
--   **KMeans Clustering**
--   **PCA (Dimensionality Reduction)**
+### Unsupervised Learning
+- **KMeans Clustering**
+- **PCA (Dimensionality Reduction)**
+
 ---
 
-##  Tech Stack
+## Tech Stack
 - **Python**  
 - **Pandas, NumPy** (Data preprocessing)  
 - **Matplotlib, Seaborn** (Visualization)  
@@ -37,16 +36,13 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ---
 
-##  Learning Approach
+## Learning Approach
 1. Learn one algorithm at a time  
 2. Build at least **one project** for each algorithm  
 3. Compare results with other algorithms  
-4. Document key learnings in this repo
-- https://github.com/Ravichandranayakar/Ml-Alogiritms-dally-progress/tree/main
----
+4. Document key learnings in this repo  
 
-
-
+[View Repository](https://github.com/Ravichandranayakar/ML-Algorithms-daily-progress)
 
 
 

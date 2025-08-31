@@ -15,7 +15,8 @@ The goal is to understand each algorithm deeply by building **real-world project
   
 - finished **Logistic Regression** with projects:
   -  **Heart Disease Prediction**
-
+  -  **cardiovascular Disease Predictor**
+  
 -  **K-Nearest Neighbors (KNN)** 
 -  **Decision Trees**   
 -  **Random Forest** 

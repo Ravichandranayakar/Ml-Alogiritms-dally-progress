@@ -41,7 +41,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ## Learning Approach
 1. Learn one algorithm at a time  
-2. Build at least **one project** for each algorithm  
+2. Building  **one project** for each algorithm  
 3. Compare results with other algorithms  
 4. Document key learnings in this repo  
 

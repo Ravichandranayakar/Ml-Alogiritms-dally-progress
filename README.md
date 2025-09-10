@@ -16,10 +16,13 @@ The goal is to understand each algorithm deeply by building **real-world project
 - **Logistic Regression** – Project:
   - **Heart Disease Prediction**
     
-- **Random Forest** – Project:
+- **Random Forest(Classification)** – Project:
   - **Cardiovascular Disease Predictor**
     
-- **K-Nearest Neighbors (KNN)**
+- **K-Nearest Neighbors (KNN)** - Project:
+  - **KNN_Digit_Recognition.ipynb**
+  - **HeartGuard Predictor.ipynb**
+  
 - **Decision Trees**
 - **Support Vector Machines (SVM)**
 - **Naive Bayes**

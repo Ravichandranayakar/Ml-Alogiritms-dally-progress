@@ -20,8 +20,8 @@ The goal is to understand each algorithm deeply by building **real-world project
   - **Cardiovascular Disease Predictor**
     
 - **K-Nearest Neighbors (KNN)** - Project:
-  - **KNN_Digit_Recognition.ipynb**
-  - **HeartGuard Predictor.ipynb**
+  - **KNN_Digit_Recognition**
+  - **HeartGuard Predictor**
   
 - **Decision Trees**
 - **Support Vector Machines (SVM)**

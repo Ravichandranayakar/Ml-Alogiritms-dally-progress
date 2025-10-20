@@ -23,7 +23,7 @@ The goal is to understand each algorithm deeply by building **real-world project
   - **KNN_Digit_Recognition**
   - **HeartGuard Predictor**
   - **Skin cancer Detection app**
-    [iew app](https://huggingface.co/spaces/RavichandraNayakar/Intelligent-Skin-Cancer-Detection-System)
+    [view app](https://huggingface.co/spaces/RavichandraNayakar/Intelligent-Skin-Cancer-Detection-System)
   
 - **Decision Trees**
 - **Support Vector Machines (SVM)**

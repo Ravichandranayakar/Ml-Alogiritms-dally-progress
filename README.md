@@ -5,7 +5,7 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ---
 
-## Algorithms Checklist
+## Algorithms Checklist 
 
 ### Supervised Learning
 - **Linear Regression** - using all top regression algoritms with Projects:

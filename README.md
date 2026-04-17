@@ -44,8 +44,6 @@ The goal is to understand each algorithm deeply by building **real-world project
 
 ---
 
-[View Repository](https://github.com/Ravichandranayakar/ML-Algorithms-daily-progress)
-
 
 
 

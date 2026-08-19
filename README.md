@@ -1,4 +1,4 @@
-# Machine Learning Algorithms - Daily Progress
+# Machine Learning Algorithms 
 
 This repository tracks my **daily progress in learning Machine Learning algorithms** with hands-on projects and notes.  
 The goal is to understand each algorithm deeply by building **real-world projects** and documenting the learning journey.
